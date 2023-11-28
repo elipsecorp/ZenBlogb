@@ -1,5 +1,5 @@
 <?php
-  require_once('./partials/db.php\\\\\\\')
+  require_once('./partials/db.php')
 ?>
 
 <!DOCTYPE html>
